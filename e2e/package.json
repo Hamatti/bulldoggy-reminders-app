@@ -1,0 +1,16 @@
+{
+  "name": "bulldoggy-cypress-e2e-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.0.3"
+  }
+}
